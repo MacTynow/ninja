@@ -8,5 +8,5 @@ get '/' do
 end
 
 get '/cv' do
-	redirect 'http://linkedin.com/in/charlesmartinot'
+    redirect 'http://linkedin.com/in/charlesmartinot'
 end
